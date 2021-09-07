@@ -4,3 +4,7 @@ VanillaTilt.init(document.querySelectorAll(".card"), {
     glare: true,
     "max-glare": 1
 });
+
+TwinkleStar.init(document.querySelector('.scene'))
+
+
