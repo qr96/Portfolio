@@ -196,6 +196,7 @@ body {
 }
 
 .info span{
+    text-align: center;
     color: #fff;
 }
 .info a {
